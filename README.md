@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Baroli </h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekbaroli&label=Profile%20views&color=0e75b6&style=flat" alt="vivekbaroli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekbaroli&label=Profile%20views&color=0e75b6&style=flat" alt="vivekbaroli" />151</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekbaroli" alt="vivekbaroli" /></a> </p>
 
@@ -36,4 +36,3 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="40" height="40"/> 
   </a> 
 </p>
-
